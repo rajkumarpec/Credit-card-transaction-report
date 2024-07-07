@@ -10,7 +10,8 @@ Power BI dashboard to analyze credit card transactions, Customer Demographics an
 4. Monitor financial performance indicators, including annual fees, credit limits, acquisition costs, and interest earned, while identifying potential risks through delinquency tracking to support informed decision-making and risk management.
 
 
-These columns cover demographic and transaction-related information, providing a comprehensive view of the customers and their credit card usage.:
+
+**These columns cover demographic and transaction-related information, providing a comprehensive view of the customers and their credit card usage.:**
 
 1. **Client_Num**: Unique identifier for each client.
 2. **Customer_Age**: Age of the customer.
